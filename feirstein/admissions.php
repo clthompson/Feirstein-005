@@ -277,10 +277,11 @@ src="https://www.facebook.com/tr?id=1665003377085116&ev=PageView&noscript=1"
 						<p>A three-year full-time program that offers a highly specialized education in a hands-on learning environment in six specializations:</p>
 						<ul>
 							<li>Cinematography</li>
-														<li>Directing</li>
+							<li>Directing</li>
 							<li>Post-production</li>
 							<li>Producing</li>
 							<li>Screenwriting</li>
+							<li>Digital Animation & Visual Effects</li>
 						</ul>
 					</div>
 				</aside>
@@ -334,6 +335,10 @@ src="https://www.facebook.com/tr?id=1665003377085116&ev=PageView&noscript=1"
 					<strong>Screenwriting</strong>
 					<p>1. Submit a screenplay that you have personally written, not to exceed 20 pages in length, correctly formatted, <strong><em>or</em></strong><br>
 					2. In 10 pages or less (double-spaced, 12-point font), write an original treatment for a feature film that you would like to write, including one page explaining why.</p>
+					<strong>Digital Animation & Visual Effects</strong>
+					<p>1. Submit a reel of short films and/or animated work that you have personally created, or collaborated on, not to exceed 15 minutes (Note: You must specify your role on each film submitted.), <strong><em>or</em></strong><br>
+					2. Submit a portfolio of up to 20 images that you have created — paintings, sculptures, illustrations or digital, <strong><em>or</em></strong><br>
+					3. Submit a screenplay of a short animated film that you would like to create.</p>
 					<p><em>Portfolio submission materials will not be returned to applicants. We recommend submitting copies only.</em></p>
 					<strong>Instructions for Uploading Portfolio to Slideroom</strong>
 					<p><a href="http://feirsteincinema.slideroom.com" target="_blank">Register and set up an account</a>.</p>

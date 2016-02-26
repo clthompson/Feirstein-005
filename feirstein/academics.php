@@ -226,7 +226,7 @@ src="https://www.facebook.com/tr?id=1665003377085116&ev=PageView&noscript=1"
 			<li>Post-production</li>
 			<li>Producing</li>
 			<li>Screenwriting</li>
-			
+			<li>Digital Animation & Visual Effects</li>
 		</ul>
 		<p>Students are admitted to the program in one of the above specializations. Although classes are offered across the different filmmaking specializations to provide a rounded education, once accepted into a specific specialization, students are not permitted to switch.</p>
 		<p>&nbsp;</p>
@@ -328,6 +328,21 @@ src="https://www.facebook.com/tr?id=1665003377085116&ev=PageView&noscript=1"
 				</div>
 			</div>
 			<h4>Producing</h4>
+		</div>
+	</a>
+	<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/mfa-digital-arts.php" class="item" style="background-image: url('http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/academics-bg-digitalarts.jpg')">
+		<div class="content">
+			<div class="icon">
+				<div class="content">
+					<img src="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/academics-icons/k_digital-arts.png">
+				</div>
+				<div class="icon-rollover">
+					<div class="content">
+						<img src="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/academics-icons/k_digital-arts.png">
+					</div>
+				</div>
+			</div>
+			<h4>Digital Animation &<br> Visual Effects</h4>
 		</div>
 	</a>
 		</section>

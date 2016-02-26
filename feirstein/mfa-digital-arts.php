@@ -218,14 +218,13 @@ src="https://www.facebook.com/tr?id=1665003377085116&ev=PageView&noscript=1"
 		</div>
 		<p>Digital technologies have transformed the media and cinematic landscapes. The Digital Animation & VFX Program will be at the leading edge of those ongoing changes. With an emphasis on experimentation and imagination and a foundation in narrative structure, the program will bridge the worlds of technology-based innovation and cinematic storytelling. Courses and workshops will be taught by industry professionals culminating in the completion of a portfolio of personal and collaborative work in visual effects and CG animation.</p>
 		<p>In addition to an intensive engagement in creative production, the program will provide opportunities for professional internships and networking to facilitate the transition into the industry.</p>
-		<p><em>Subject to approval by the New York State Education Department.</em></p>
 	</div>
 	<div class="degree">
 		<h4 class="smaller">Degree Requirements</h4>
 		<h5>(66 credits)</h5>
 		<strong>Semester 1 (12 credits)</strong>
 		<ul>
-			<li>Digital Arts Production Workshop 1</li>
+			<li>Digital Imaging and Compositing 1</li>
 			<li>Integrated Media</li>
 			<li>Narrative Structure</li>
 			<li>World Cinema</li>
@@ -233,34 +232,34 @@ src="https://www.facebook.com/tr?id=1665003377085116&ev=PageView&noscript=1"
 		<strong>Semester 2 (12 credits)</strong>
 		<ul>
 			<li>3D Computer Animation 1</li>
-			<li>Digital Arts Symposium </li>
-			<li>Digital Imaging and Compositing 1</li> 
-			<li>History of Animation and VFX Techniques </li>
+			<li>Digital Animation and VFX Symposium</li>
+			<li>Digital Imaging and Compositing 2</li> 
+			<li>History of Animation and VFX Techniques</li>
 		</ul>
 		<strong>Semester 3 (12 credits)</strong>
 		<ul>
-			<li>3D Computer Animation 2</li>
 			<li>Advanced Discipline Elective #1*</li>
-			<li>Digital Imaging and Compositing 2</li>
+			<li>3D Computer Animation 2</li>
+			<li>Digital Imaging and Compositing 3</li>
 			<li>Drawing, Illustration, and Digital Cel Animation</li>
 		</ul>
 		<strong>Semester 4 (12 credits)</strong>
 		<ul>
-			<li>3D Computer Animation 3</li>
 			<li>Advanced Discipline Elective #2*</li>
-			<li>Digital Imaging and Compositing 3</li>
-			<li>Thesis Project Development</li>
+			<li>3D Computer Animation 3</li>
+			<li>Digital Animation & VFX Thesis Project Development</li>
+			<li>Digital Imaging and Compositing 4</li>
 		</ul>
 		<strong>Semester 5 (9 credits)</strong>
 		<ul>
-			<li>*Advanced Discipline Elective #3</li>
-			<li>*Advanced Discipline Elective #3</li>
-			<li>Thesis</li>
+			<li>Advanced Discipline Elective #3*</li>
+			<li>Advanced Discipline Elective #4*</li>
+			<li>Digital Animation and VFX Thesis 1</li>
 		</ul>
 		<strong>Semester 6 (9 credits)</strong>
 		<ul>
-			<li>Portfolio Development</li>
-			<li>Thesis 2</li>
+			<li>Digital Animation and VFX Portfolio Development</li>
+			<li>Digital Animation and VFX Thesis 2</li>
 		</ul>
 		<strong>Electives</strong>
 		<p>* Elective courses may include:</p>
@@ -268,11 +267,17 @@ src="https://www.facebook.com/tr?id=1665003377085116&ev=PageView&noscript=1"
 			<li>3D Character Animation 1</li>
 			<li>3D Character Animation 2</li>
 			<li>3D Computer Animation 4</li>
-			<li>Directing</li>
+			<li>Directing Actors</li>
+			<li>Experimental Animation</li>
+			<li>Hybrid Animation</li>
+			<li>Lighting Workshop</li>
 			<li>Motion Capture</li>
 			<li>Picture Editing</li>
 			<li>Screenwriting</li>
 			<li>Sound Editing and Design</li>
+			<li>Theories of Digital Arts</li>
+			<li>Typography, Design, and Motion Graphics</li>
+		<ul>
 	</div>
 </section>
 	</section>
