@@ -165,7 +165,7 @@ src="https://www.facebook.com/tr?id=1665003377085116&ev=PageView&noscript=1"
 				<span>Job Opportunities</span>
 			</a>
 			<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/faculty.php">
-				<span>Faculty</span>
+				<span>Faculty & Staff</span>
 			</a>
 			<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/donors.php">
 				<span>Founding Donors</span>
@@ -262,12 +262,37 @@ src="https://www.facebook.com/tr?id=1665003377085116&ev=PageView&noscript=1"
 							</div>
 							</div>
 							<h5>Adjunct Faculty</h5>
-							<p>The Feirstein Graduate School of Cinema is looking for adjunct faculty qualified to teach the following graduate-level courses in spring 2016:</p>
+							<p>The Feirstein Graduate School of Cinema is looking for adjunct faculty qualified to teach the following graduate-level courses in fall 2016:</p>
 							<ul>
-							 <li>World Cinema 2: 1960 to the Present</li>
-							 <li>Reading (Screen)writers</li>
+							 <li>Advanced Editing</li>
+							 <li>Advanced Screenwriting </li>
+							 <li>Cinema Aesthetics</li>
+							 <li>Cinematography 2</li>
+							 <li>Digital Imaging and Compositing I </li>
+							 <li>Digital Media Integration</li>
+							 <li>Directing the Actor</li>
+							 <li>Distribution and Exhibition</li>
+							 <li>Documentary Production Workshop </li>
+							 <li>Film Analysis &amp; Research</li>
+							 <li>Film History / Historiography</li>
+							 <li>Global Cinemas</li>
+							 <li>Integrated Media</li>
+							 <li>Narrative Structure</li>
+							 <li>National Cinemas</li>
+							 <li>Post-production Workshop</li>
+							 <li>Pre-production and Production Management</li>
+							 <li>Process of Producing</li>
+							 <li>Producing for New Media</li>
+							 <li>Production Workshop I</li>
+							 <li>Scene Writing Workshop</li>
+							 <li>Screenwriting</li>
+							 <li>Script Analysis and Development</li>
+							 <li>Sound Editing and Design 1</li>
+							 <li>World Cinema for DAVE</li>
+							 <li>World Cinema to 1960</li>
+							 <li>Writing for New Media</li>
 							</ul>
-							<p>Industry credits are required, and graduate teaching and M.F.A. are preferred for production courses. Ph.D. is required for cinema studies courses. Send CV and short cover letter to <a href="mailto:MMoore@brooklyn.cuny.edu?Subject=Feirstein Jobs">Matt Moore</a>, academic program manager; please reference “Feirstein Jobs” in the subject line.</p>
+							<p>Industry credits are required, and graduate teaching experience and an M.F.A. are preferred for most production courses. A Ph.D. is required for cinema studies courses. E-mail a CV with a short cover letter, a list of courses taught, and student evaluations, where available, to <a href="mailto:MMoore@brooklyn.cuny.edu?Subject=Feirstein Jobs">Matt Moore</a>, academic program manager. Reference &ldquo;Feirstein Jobs&rdquo; in the subject line and indicate which course(s) you are qualified to teach.</p>
 					</article>
 				</div>
 			</div>

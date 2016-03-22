@@ -185,7 +185,7 @@ src="https://www.facebook.com/tr?id=1665003377085116&ev=PageView&noscript=1"
 		<h4 class="smaller">Built From the Ground Up</h4>
 		<p>The Feirstein Graduate School of Cinema is housed in a brand-new 68,000-square-foot facility, purpose-built for a 21st-century film school. Our entirely digital production and post-production environment offers the most current and state-of-the-art workspaces, studios, stages and equipment, affording students the opportunity to create in a fully professional setting.</p>
 		<p>&nbsp;</p>
-		<p>For a closer look at our facilities, check out <a href="https://www.facebook.com/media/set/?set=a.1113644211979042.1073741834.827458990597567&type=1&l=f1a9f39d71">this collection of images</a> by photographer Chris Cooper.	</p>
+		<p>For a closer look at our facilities, check out <a href="https://www.facebook.com/media/set/?set=a.1113644211979042.1073741834.827458990597567&type=1&l=f1a9f39d71">this collection of images</a> by photographer Chris Cooper.</p>
 	</div>
 	<div class="left">
 		<h4 class="smaller">68,000-Square-Foot</h4>

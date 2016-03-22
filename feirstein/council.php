@@ -179,12 +179,12 @@ src="https://www.facebook.com/tr?id=1665003377085116&ev=PageView&noscript=1"
 		<span>Job Opportunities</span>
 	</a>
 	<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/faculty.php">
-		<span>Faculty</span>
+		<span>Faculty & Staff</span>
 	</a>
 	<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/donors.php">
 		<span>Founding Donors</span>
 	</a>
-	<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/council.php">
+	<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/council.php" class="active">
 		<span>Advisory Council</span>
 	</a>
 	<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/media-room.php">

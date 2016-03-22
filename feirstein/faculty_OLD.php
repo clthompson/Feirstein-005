@@ -179,7 +179,7 @@ src="https://www.facebook.com/tr?id=1665003377085116&ev=PageView&noscript=1"
 				<span>Job Opportunities</span>
 			</a>
 			<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/faculty.php" class="active">
-				<span>Faculty & Staff</span>
+				<span>Faculty</span>
 			</a>
 			<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/donors.php">
 				<span>Founding Donors</span>
@@ -195,13 +195,12 @@ src="https://www.facebook.com/tr?id=1665003377085116&ev=PageView&noscript=1"
 <section class="advisory-council">
 	<div class="about-section-title">
 		<div class="wrap">
-			<div class="title"><h4>Faculty & Staff</h4></div>
+			<div class="title"><h4>Feirstein Faculty</h4></div>
 		</div>
 	</div>
 	<div class="content">
 		<div class="wrap">
-			<aside class="faculty">
-				<h6>Faculty</h6>
+			<aside>
 				<ol>
 					 <li class="selection" data-person="jonathan-wacks"><span class="active">Jonathan Wacks</li>
 					 <li class="selection" data-person="kara-lynn-andersen"><span>Kara Lynn Andersen</span></li>
@@ -451,56 +450,6 @@ src="https://www.facebook.com/tr?id=1665003377085116&ev=PageView&noscript=1"
 				</div>
 			</article>
 			
-		</div>
-	</div>
-</section>
-
-
-
-
-
-<section class="advisory-council">
-	<div class="content">
-		<div class="wrap">
-			<aside class="staff">
-				<h6>Staff</h6>
-				<ol>
-					 <li class="selection" data-person="dustin-chang"><span class="active">Dustin Chang</li>
-					 <li class="selection" data-person="pontus-gunve"><span>Pontus Gunve</span></li>
-					 <li class="selection" data-person="melanie-hill-cantey"><span>Melanie Hill-Cantey</li>
-					 <li class="selection" data-person="jay-kim"><span>Jay Kim</span></li>
-
-				</ol>
-			</aside>
-			<article data-person="dustin-chang">
-				<div class="staff-top"></div>
-				<div class="bio">
-					<h5>Dustin Chang, Equipment Room Manager</h5>
-					<p>Dustin Chang was born in South Korea and studied painting in high school. After coming to the United States, he studied literature and film in college in the Pacific Northwest. Since then, he dabbled in micro-budget filmmaking and has been a technical support staff member for the School of Visual Arts and the film program at NYU Tisch School of the Arts. He has been writing film reviews and conducting filmmaker interviews as a contributing writer for Twitchfilm since 2008. He and his wife have been Brooklynites since 1999.</p>
-				</div>
-			</article>
-			<article class="hidden" data-person="pontus-gunve">
-				<div class="staff-top"></div>
-				<div class="bio">
-					<h5>Pontus Gunve, Post-production Manager</h5>
-					<p>Pontus Gunve is a New York City–based guitarist, composer, and technologist who embraces the theory that music is a multidimensional experience and an adventure in wordless storytelling that fully absorbs the audience&rsquo;s mind, body, and spirit. As a child, Gunve began to explore the capabilities of computers to create different sounds and textures. His fascination with rock music led him to electric guitar, which he began to study voraciously, simultaneously imagining ways to expand its boundaries. At the same time, he experimented with sequencing and learned how to build computer and synthesizer modules that could be used practically during performances and on recordings. Now, he translates his sensual impressions of the universe into intricate, personal, and melodic musical passages that allow him to connect powerfully with his own musicians, the audience, and each space in which he performs. He has composed music and worked as a sound designer for a wide range of independent films and Web projects as well as for various large-scale art projects in Sweden. In 2007, he founded an instrumental project, PHWG, a group that combines video, electronic instruments, cello, violin, drums, and tabla/darbuka. He has released two albums — <em>Great Wall of Sound </em>(2006) and <em>Movements</em> (2008). Gunve continues to record and perform with bands throughout the New York City area. He released <em>The Observer</em> in 2013 and was a finalist in the Battle of the Boroughs competition in 2014.</p>
-				</div>
-			</article>
-			<article class="hidden" data-person="melanie-hill-cantey">
-				<div class="staff-top"></div>
-				<div class="bio">
-					<h5>Melanie Hill-Cantey, Administrative Coordinator</h5>
-					<p>Melanie Hill-Cantey has been a higher education administrator for more than 15 years. She is a program and event coordinator; a scholar in music, media theory, digital audio technology, and sound design; and a music producer.&nbsp;Hill-Cantey attended Long Island University–Brooklyn and earned a B.A. and an M.A. in media arts with a concentration in sound design/audio engineering and ethnomusicology.&nbsp;To help mesh her varying interests, she earned certificates in business project management and sound design at New York University.&nbsp;Her research has been on the movement of modern ethnic music in a globalized world. A track from her demo was recently chosen to be played at a Dub Spot Electronic Music School&rsquo;s Women in Music Technology event.</p>
-				</div>
-			</article>
-			<article class="hidden" data-person="jay-kim">
-				<div class="staff-top"></div>
-				<div class="bio">
-					<h5>Jay Kim, Technology and Resources Manager</h5>
-					<p>Jay Kim (Jung-Hun Kim) has more than 20 years of experience in the world of film and television production. He has worked on numerous films, documentaries, and music videos as a director of photography, a Steadicam operator, and an editor.&nbsp;His recent works have been showed at DGA Theater Hollywood, Lincoln Center, Rhode Island International Film Festival, Palm Springs International Film Festival, and many other festivals. As an educator, he has taught numerous classes in film/television production, ranging from beginning to advanced, at various institutes in the United States, South Korea, and India.&nbsp;His special interests are digital cinematography and digital post-production workflow. He is an Avid certified instructor for Media Composer and Pro Tools and an Apple certified trainer for Final Cut Pro and Final Cut X.&nbsp;Prior to joining the Feirstein Graduate School of Cinema as technology and resources manager, he held the position of education coordinator for film technology in the Brooklyn College Department of Film, where he had worked for more than 15 years.</p>
-					<p>Kim holds a B.A. in film production and an M.F.A. in television production from Brooklyn College as well as a bachelor&rsquo;s degree in journalism and broadcasting from Chung-Ang University, Seoul, South Korea, and an M.A. in media studies from The New School.</p>
-				</div>
-			</article>
 		</div>
 	</div>
 </section>

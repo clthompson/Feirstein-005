@@ -8086,22 +8086,8 @@ html {
 
 /* Additional Faculty Bios, min-height */
 .advisory-council {
-  min-height: 900px;
+  min-height: 1050px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 /* Underlines A */
 @media all and (max-width: 1200px) {
@@ -8312,4 +8298,78 @@ html {
     padding-left: 0px;
     letter-spacing: .021em !important;
   }
+}
+
+/* Additional subtle repeat styles for CMS issues */
+/* Jobs related */
+.faq .inner-wrap .faq .split-item .faq-item .faq-questions .question .answer p, .faq .inner-wrap .faq .split-item .faq-item .faq-questions .question .answer ul {
+  padding: 0 1em 1em 1em;
+  font-size: 0.875em;
+}
+
+.faq .inner-wrap .faq .split-item .faq-item .faq-questions .question .answer ul {
+  padding: 0 1em 1em 1em;
+  font-size: 0.875em;
+}
+.faq .inner-wrap .faq .split-item .faq-item .faq-questions .question .answer ul li{
+    font-size: 1.0em; 
+    letter-spacing: .02em; 
+    font-weight:400; 
+    line-height: 1.8em;
+}
+
+/* Staff Bios */ 
+.staff-top {
+  height: 0px;
+}
+
+.advisory-council .content .wrap aside.staff {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 70%;
+  padding-left: 4.5em;
+  padding-right: 4.5em;
+  padding-top: 4em;
+}
+
+@media all and (max-width: 1201px) {
+  .advisory-council .content .wrap aside.staff {
+    padding-left: 3.5em;
+    padding-right: 3.5em;
+  }
+}
+@media all and (max-width: 769px) {
+  .advisory-council .content .wrap aside.staff {
+    padding-left: 2.5em;
+    padding-right: 2.5em;
+  }
+}
+@media all and (max-width: 500px) {
+  .advisory-council .content .wrap aside.staff {
+    padding-left: 2em;
+    padding-right: 2em;
+  }
+}
+@media all and (max-width: 1025px) {
+  .advisory-council .content .wrap aside.staff {
+    right: 60%;
+  }
+}
+
+@media all and (max-width: 769px) {
+  .advisory-council .content .wrap aside.staff {
+    position: relative;
+    right: auto;
+    left: auto;
+    width: 100%;
+    padding-bottom: 2em;
+    padding-top: 2em;
+  }
+}
+
+.advisory-council .faculty h6, .advisory-council .staff h6 {
+  color: #d81e5d !important;
+  font-weight: bolder;
 }

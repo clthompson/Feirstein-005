@@ -198,7 +198,7 @@ src="https://www.facebook.com/tr?id=1665003377085116&ev=PageView&noscript=1"
 	</a>
 	<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/mfa-digital-arts.php" class="digital-arts">
 		<div class="icon"></div>
-		<span>Digital arts</span>
+		<span>Digital Animation & VFX</span>
 	</a>
 </nav>
 <section class="academics-hero">

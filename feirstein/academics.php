@@ -196,9 +196,9 @@ src="https://www.facebook.com/tr?id=1665003377085116&ev=PageView&noscript=1"
 		<div class="icon"></div>
 		<span>Producing</span>
 	</a>
-	<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/mfa-digital-arts.php" class="digital-arts active">
+	<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/mfa-digital-arts.php" class="digital-arts">
 		<div class="icon"></div>
-		<span>Digital Arts</span>
+		<span>Digital Animation & VFX</span>
 	</a>
 </nav>
 <section class="internal-page-hero" style="background-image: url('http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/academics-hero.jpg'); background-position: bottom">
@@ -229,14 +229,13 @@ src="https://www.facebook.com/tr?id=1665003377085116&ev=PageView&noscript=1"
 			<li>Digital Animation & Visual Effects</li>
 		</ul>
 		<p>Students are admitted to the program in one of the above specializations. Although classes are offered across the different filmmaking specializations to provide a rounded education, once accepted into a specific specialization, students are not permitted to switch.</p>
-		<p>&nbsp;</p>
-		<p>Brooklyn College offers two new M.F.A. programs in music beginning in the fall 2016 semester. Several classes will be held at the school.</p><h6>Media Scoring</h6>
-		<P>Media Scoring will offer advanced instruction and technical experience in the composition and production of music for media, including cinema, television, video games, animation and other commercial applications. Those who have demonstrated success as a composer, possess a bachelor's degree in music (or demonstrated equivalency) and wish to pursue a career in scoring or related fields are encouraged to apply.</p><h6>Sonic Arts</h6>
-        <P>Sonic Arts will focus on emerging technical innovations in music and sound art, sound design, and multimedia sound. The program has been designed to provide an academic route to promising composers and artists, sound designers, and those working in digital media who may not necessarily possess a bachelor's degree in music.<br>
-		</p>
-	  <p>		  For more information and course requirements, please <a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/departments/music/graduate/admissions/finearts.php">visit this webpage.</a></p>
-		<p>To apply directly,  visit the <a href="https://websql.brooklyn.cuny.edu/graduate/">Online Graduate Application Form</a>.<br>
-	  </p>
+		<p>Brooklyn College offers two new M.F.A. programs in music beginning in the fall 2016 semester. Several classes will be held at the school.</p>
+		<h6>Media Scoring</h6>
+		<P>Media Scoring will offer advanced instruction and technical experience in the composition and production of music for media, including cinema, television, video games, animation and other commercial applications. Those who have demonstrated success as a composer, possess a bachelor's degree in music (or demonstrated equivalency) and wish to pursue a career in scoring or related fields are encouraged to apply.</p>
+		<h6>Sonic Arts</h6>
+        <P>Sonic Arts will focus on emerging technical innovations in music and sound art, sound design, and multimedia sound. The program has been designed to provide an academic route to promising composers and artists, sound designers, and those working in digital media who may not necessarily possess a bachelor's degree in music.</p>
+	  	<p>For more information and course requirements, please <a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/departments/music/graduate/admissions/finearts.php">visit this webpage.</a></p>
+		<p>To apply directly, visit the <a href="https://websql.brooklyn.cuny.edu/graduate/">Online Graduate Application Form</a>.</p>
 	</div>
 </section>
 <section class="academics-grid">

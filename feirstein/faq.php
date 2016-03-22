@@ -214,7 +214,7 @@ src="https://www.facebook.com/tr?id=1665003377085116&ev=PageView&noscript=1"
 										<strong>I graduated from a college outside the United States. Do I need to have my transcript evaluated?</strong>
 									</p>
 									<p class="answer">
-										Yes, you need to obtain an international credential evaluation from a professional agency that is a member of <a href="http://www.naces.org"  target="_blank">NACES</a>. However, exceptions are made for <a href="http://www.brooklyn.cuny.edu/web/admissions/graduate/apply/international.php" target="_blank">certain countries</a>.
+										Yes, you need to obtain an international credential evaluation from a professional agency that is a member of <a href="http://www.naces.org"  target="_blank">NACES</a>. However, exceptions are made for <a href="http://www.brooklyn.cuny.edu/web/admissions/international/apply/graduate.php" target="_blank">certain countries</a>.
 									</p>
 								</div>
 								<div class="question">
