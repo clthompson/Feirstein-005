@@ -170,6 +170,9 @@ src="https://www.facebook.com/tr?id=1665003377085116&ev=PageView&noscript=1"
 	<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/about.php" class="menu-item"><span>About Us</span></a>
 	<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/faq.php" class="menu-item"><span>FAQ</span></a>
 	<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/contact-us.php" class="menu-item"><span>Contact</span></a>
+
+<!--<link rel="stylesheet" href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/styles/lightbox.min.css">-->
+
 </div>	<section class="container">
 		<section class="facilities-hero" style="background-image: url('http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/facilities-hero.jpg'); background-position: top">
 	<div class="overlay">
@@ -180,6 +183,8 @@ src="https://www.facebook.com/tr?id=1665003377085116&ev=PageView&noscript=1"
 		</div>
 	</div>
 </section>
+
+
 <section class="facilities-intro">
 	<div class="right">
 		<h4 class="smaller">Built From the Ground Up</h4>
@@ -193,9 +198,12 @@ src="https://www.facebook.com/tr?id=1665003377085116&ev=PageView&noscript=1"
 	</div>
 </section>
 <section class="facilities-grid">
+
 	<div class="wrap">
 		<div class="item">
-			<img src="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/facilities-icons/facilities_soundstage.png">
+			<!--<a class="example-image-link" href="bigImage" data-lightbox="example-set" data-title="<em>Click the right <a href='#'>half</a> of the</em> image to move forward.">-->
+				<img src="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/facilities-icons/facilities_soundstage.png">
+			<!--</a>-->
 			<h5>Soundstage</h5>
 			<span>4,000 square feet</span>
 		</div>
@@ -387,7 +395,7 @@ src="https://www.facebook.com/tr?id=1665003377085116&ev=PageView&noscript=1"
 </footer>
 		<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBGp_Nb2fF2sHpJN6VQDlqGt145Sd2353E"></script>
 	<script src="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/js/app.js"></script>
-
+	<!--<script src="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/js/lightbox.min.js"></script>-->
 <IFRAME SRC="http://www.imiclk.com/cgi/r.cgi?m=3&mid=s7uurnQP&did=feirstein_remarketing" FRAMEBORDER="0" SCROLLING="NO" WIDTH="0" HEIGHT="0"> </IFRAME>
 	  </body>
 </html>

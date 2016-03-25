@@ -315,7 +315,8 @@ ul li {
   letter-spacing: 0.015em;
 }
 ul li:before {
-  content: '•';
+  /*content: '•';*/
+  content: '\002022'; /*changed on 160323*/
   margin-right: 0.25em;
 }
 .column-40 {

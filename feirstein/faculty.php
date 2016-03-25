@@ -207,8 +207,8 @@ src="https://www.facebook.com/tr?id=1665003377085116&ev=PageView&noscript=1"
 					 <li class="selection" data-person="kara-lynn-andersen"><span>Kara Lynn Andersen</span></li>
 					 <li class="selection" data-person="alrick-brown"><span>Alrick Brown</span></li>
 					 <li class="selection" data-person="ricardo-hernandez-anzola"><span>Ricardo Hernández Anzola</span></li>
-					 <li class="selection" data-person="sarah-christman"><span>Sarah Christman</span></li>
 					 <li class="selection" data-person="alan-canant"><span>Alan Canant</span></li>
+					 <li class="selection" data-person="sarah-christman"><span>Sarah Christman</span></li>
 					 <li class="selection" data-person="sarah-cawley"><span>Sarah Cawley</span></li>
 					 <li class="selection" data-person="leo-goldsmith"><span>Leo Goldsmith</span></li>
 					 <li class="selection" data-person="kate-hearst"><span>Kate Hearst</span></li>
@@ -275,17 +275,6 @@ src="https://www.facebook.com/tr?id=1665003377085116&ev=PageView&noscript=1"
 					</ul>
 				</div>
 			</article>
-			<article class="hidden" data-person="sarah-christman">
-				<div class="faculty-top"></div>
-				<div class="bio">
-					<h5>Sarah Christman, Post-Production</h5>
-					<p>Associate  Professor Sarah J. Christman is a Brooklyn-based filmmaker. Her work has screened widely, including at the MoMA Documentary Fortnight, Rotterdam International Film Festival, Toronto International Film Festival, New York Film Festival and Los Angeles Filmforum. Christman is also a film and video editor whose credits include independent film and television.</p>
-  					<p>Learn more about Sarah Christman:</p>
-					<ul>
-  						<li><a href="http://www.brooklyn.cuny.edu/web/academics/faculty/faculty_profile.jsp?faculty=794" target="_blank">Brooklyn College Faculty Profile</a></li>
-					</ul>
-				</div>
-			</article>
 			<article class="hidden" data-person="alan-canant">
 				<div class="faculty-top"></div>
 				<div class="bio">
@@ -294,6 +283,17 @@ src="https://www.facebook.com/tr?id=1665003377085116&ev=PageView&noscript=1"
 					<p>Learn more about Alan Canant:</p>
 					<ul>
   						<li><a href="http://www.imdb.com/name/nm1363162/?ref_=fn_al_nm_1" target="_blank">IMDB</a></li>
+					</ul>
+				</div>
+			</article>
+			<article class="hidden" data-person="sarah-christman">
+				<div class="faculty-top"></div>
+				<div class="bio">
+					<h5>Sarah Christman, Post-Production</h5>
+					<p>Associate  Professor Sarah J. Christman is a Brooklyn-based filmmaker. Her work has screened widely, including at the MoMA Documentary Fortnight, Rotterdam International Film Festival, Toronto International Film Festival, New York Film Festival and Los Angeles Filmforum. Christman is also a film and video editor whose credits include independent film and television.</p>
+  					<p>Learn more about Sarah Christman:</p>
+					<ul>
+  						<li><a href="http://www.brooklyn.cuny.edu/web/academics/faculty/faculty_profile.jsp?faculty=794" target="_blank">Brooklyn College Faculty Profile</a></li>
 					</ul>
 				</div>
 			</article>
